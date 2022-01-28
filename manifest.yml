@@ -2,5 +2,5 @@
 applications:
 - name: sapcpcfhw
   path: .
-  buildpack: nodejs_buildpack
+  random-route: true
   memory: 128M
